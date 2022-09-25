@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
-    <p>Cod schimbat la 26.09.2022 ora 00.40.</p>
+    <p>Cod schimbat la 26.09.2022 ora 01.05.</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
