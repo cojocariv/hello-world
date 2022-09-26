@@ -2,7 +2,7 @@
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
 <<<<<<< HEAD
-    <p>Cod schimbat pentru ansible4</p>
+    <p>Cod schimbat pentru ansible5</p>
 =======
     <p>Cod schimbat la 26.09.2022 ora 01.05.</p>
 >>>>>>> 91eeecddcdbf28d1d5de46ce0787c46b10933282
